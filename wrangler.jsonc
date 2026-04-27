@@ -12,7 +12,7 @@
 	"vars": {
 		// Production deploys must also define POLICY_AUD and TEAM_DOMAIN.
 		// The worker now fails closed outside local development if Access is not configured.
-		"DOMAINS": "inlined.app",
+		"DOMAINS": "inlined.app,shipoftheday.com",
 		"EMAIL_ADDRESSES": []
 	},
 	"send_email": [
